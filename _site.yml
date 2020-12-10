@@ -3,8 +3,8 @@ output_dir: "docs"
 navbar:
   title: "Douglas Neumann Data Science"
   left:
-    #- text: "home"
-    #  href: index.html 
+    - text: "home"
+      href: index.html 
     - text: "About"
       href: About.html
     - text: "Resume"
