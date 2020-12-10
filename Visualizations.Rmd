@@ -1,4 +1,0 @@
----
-title: "Visualizations"
-output: html_document
----
