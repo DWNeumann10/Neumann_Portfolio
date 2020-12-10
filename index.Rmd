@@ -1,9 +1,0 @@
----
-title: "index"
-author: "Doug Neumann"
-date: "12/9/2020"
-output: html_document
----
-
-Hello, Welcome to my website for the 503
- 
