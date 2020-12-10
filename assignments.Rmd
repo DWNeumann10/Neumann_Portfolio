@@ -1,5 +1,0 @@
----
-title: "Assignments"
-author: "Doug Neumann"
-output: html_document
----
